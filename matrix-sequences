@@ -692,7 +692,7 @@ void menuPrincipal() {
     while (op != 3) {
         separador('=');
         cout << "  PROGRAMA MAT COMP\n";
-        cout << " Presentado por: Deivy A. Perez Rojas, Linda A. Rodroguez L. y Alizon Santillan.\n";
+        cout << " Presentado por: Deivy A. Perez Rojas, Linda Antonella Rodriguez Languidey y Alizon Santillan.\n";
         separador('-', 40);
         cout << "  1. Matrices\n";
         cout << "  2. Sucesiones y Series\n";
